@@ -171,8 +171,11 @@ footer .centrado {
 
 }
 @media  (max-width:1002px) and (min-width:769px){
+    .entrada, .texto-salida{
+        width: 100%;
+    }
     .texto-entrada-contenido{
-        height: 40vh;
+        height: 50vh;
     }
     .boton-encriptar, .boton-desencriptar{
         

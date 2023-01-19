@@ -75,14 +75,14 @@ main .centrado{
     padding: 15px 15px;
     text-transform: uppercase;
     box-shadow: 5px 5px rgba(0,0,0,0.5);
-    text-shadow: 1px 0 black;
-     
+    margin-bottom: 20px;
 }
 .boton-encriptar:hover,.boton-desencriptar:hover {
     background: #0f2d80;
 }
 .boton-copiar:hover{
-    background: #d9790c;
+    color: #ffffff;
+    background: #367d07;
 }
 .reglas{
     margin: 30px 0;

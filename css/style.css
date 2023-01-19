@@ -132,26 +132,19 @@ footer .centrado {
     
 }
 @media  (max-width:768px) and (min-width:608px){
-    .entrada, .texto-salida{
+    .centrado, .entrada, .texto-salida{
         width: 100%;
     }
-    .texto-entrada-contenido{
-        height: 50vh;
-    }
-    .boton-encriptar, .boton-desencriptar{
-        margin-bottom: 20px;
+    .boton-encriptar, .boton-desencriptar, .boton-copiar{
+        margin-bottom: 30px;
     }
 
 }
-@media  (max-width:1002px) and (min-width:769px){
+@media  (max-width:1069px) and (min-width:769px){
     .entrada, .texto-salida{
         width: 100%;
     }
-    .texto-entrada-contenido{
-        height: 50vh;
-    }
-    .boton-encriptar, .boton-desencriptar{
-        
-        margin-bottom: 20px;
+    .boton-encriptar, .boton-desencriptar, .boton-copiar{
+        margin-bottom: 30px;
     }
 }

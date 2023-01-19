@@ -120,14 +120,13 @@ footer .centrado {
 }
 
 @media screen and (max-width:607px){
-    .entrada, .texto-salida{
+    .centrado, .entrada, .texto-salida{
         width: 100%;
     }
     .texto-entrada-contenido{
-        height: 40vh;
+        height: 48vh;
     }
     .boton-encriptar, .boton-desencriptar, .boton-copiar{
-        
         margin-bottom: 20px;
     }
     

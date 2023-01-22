@@ -85,9 +85,9 @@ main .centrado{
     background: #367d07;
 }
 .reglas{
+    color: #FFF;
     margin: 30px 0;
     font-size: 16px;
-    font-weight: bold;
 }
 .texto-salida{ 
     width: 38%;
